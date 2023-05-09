@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debojyotisheet&label=Profile%20views&color=0e75b6&style=flat" alt="debojyotisheet" /> </p>
 
-- 🔭 I’m currently working on **Depression and Anxiety analysis using deep learning**
+- 🔭 I have compleated a Machine Learning project on **Depression and Anxiety analysis using deep learning**
 
 - 🌱 I’m currently learning **Django**
+
+- 🌱 I have done 3 months of Internship as a JAVA Developer in a service based company. 
 
 - 📫 How to reach me **debojyotisheet@gmail.com**
 
