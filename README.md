@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 🌱 I have done 3 months of Internship as a JAVA Developer in a service based company. 
+- 🌱 I have done 3 months of Internship as a **JAVA Developer** in a service based company. 
 
 - 📫 How to reach me **debojyotisheet@gmail.com**
 
